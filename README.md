@@ -1,6 +1,10 @@
 # WaveSideBar
 带有波浪效果的侧边栏
 
+![image](https://github.com/FreeWarriors/WaveSideBar/blob/master/wavesidebar.gif)
+
+
+
 How to use:
 
 Step 1.Add it in your root build.gradle at the end of repositories:
